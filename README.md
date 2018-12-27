@@ -12,7 +12,7 @@ Konvert is a sample Android application written in Kotlin. It mimics the [Revolu
 
 This project is developped in Kotlin, and uses [the CLEAN architecture.](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-![https://fernandocejas.com/assets/migrated/clean_architecture1.png](https://fernandocejas.com/assets/migrated/clean_architecture1.png)
+![cleanarchitecture](https://user-images.githubusercontent.com/4358453/50484958-7966e480-09f3-11e9-8ac6-bb138e2595e9.jpg)
 
 # Main libraries used
 
